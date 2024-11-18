@@ -1,6 +1,6 @@
 {
   "name": "bunny-woff2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": false,
   "type": "module",
   "description": "wawoff2 for Edge Scripting for bunny.net 🐰",
